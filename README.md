@@ -46,10 +46,10 @@ The maze is displayed in a window named "Maze". Colors used:
 - MazePoint Struct: Represents a point in the maze with x and y coordinates.
 - drawMaze Function: Draws the maze, start point, goal point, and visited cells on an OpenCV Mat object.
 - mouseCallback Function: Handles mouse events to set the start point when a cell is clicked.
-## main Function:
-- Initializes the maze and OpenCV window.
-- Sets up the BFS algorithm to explore the maze.
-- Continuously updates the maze visualization until the goal is reached or BFS completes.
+- main Function:
+  - Initializes the maze and OpenCV window.
+  - Sets up the BFS algorithm to explore the maze.
+  - Continuously updates the maze visualization until the goal is reached or BFS completes.
 
 ## License
 This project is licensed under the MIT License. See the LICENSE file for details.
