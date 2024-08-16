@@ -1,1 +1,1 @@
-#  Maze Solver OpenCV using BFS
+#  Maze Solver with BFS and OpenCV
