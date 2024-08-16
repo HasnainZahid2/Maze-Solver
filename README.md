@@ -19,10 +19,9 @@ To compile the program, use the following command:
 ```sh
 g++ -o maze_solver maze_solver.cpp `pkg-config --cflags --libs opencv4`
 ```
-##Usage
+## Usage
 Run the Program
 ```sh
-Copy code
 ./maze_solver
 ```
 - Select Start Point
