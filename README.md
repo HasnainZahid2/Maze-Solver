@@ -44,5 +44,4 @@ The maze is displayed in a window named "Maze". Colors used:
   - Sets up the BFS algorithm to explore the maze.
   - Continuously updates the maze visualization until the goal is reached or BFS completes.
 
-## License
-This project is licensed under the MIT License. See the LICENSE file for details.
+
