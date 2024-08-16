@@ -12,13 +12,6 @@ This project implements a maze solver using the Breadth-First Search (BFS) algor
 
 - **OpenCV**: Required for rendering the maze and handling user interactions. Install OpenCV using your package manager or build it from source.
 
-## Compilation
-
-To compile the program, use the following command:
-
-```sh
-g++ -o maze_solver maze_solver.cpp `pkg-config --cflags --libs opencv4`
-```
 ## Usage
 Run the Program
 ```sh
